@@ -21,7 +21,6 @@
     <PackageReference Include="Famecipe.Common" Version="1.0.0" />
     <PackageReference Include="Famecipe.Models" Version="1.0.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
-    <PackageReference Include="Famecipe.Repository.Memory" Version="1.0.0" />
     <PackageReference Include="Famecipe.Repository.Sqlite" Version="1.0.0" />
     <PackageReference Include="Famecipe.Services" Version="1.0.0" />
   </ItemGroup>
